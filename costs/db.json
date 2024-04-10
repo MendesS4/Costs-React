@@ -81,6 +81,13 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "ed3d",
+      "name": "Samuel Mendes",
+      "budget": "7",
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
