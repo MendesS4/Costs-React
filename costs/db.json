@@ -34,11 +34,6 @@
       "services": []
     },
     {
-      "id": "9fcc",
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "0778",
       "name": "Samuel Mendes",
       "budget": "1000",
@@ -79,13 +74,6 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "ed3d",
-      "name": "Samuel Mendes",
-      "budget": "7",
       "cost": 0,
       "services": []
     }
