@@ -1,12 +1,12 @@
 {
   "projects": [
     {
-      "id": "0778",
-      "name": "Samuel Mendes",
-      "budget": "1000",
+      "id": "cb0a",
+      "name": "Teste de projeto",
+      "budget": "10000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
