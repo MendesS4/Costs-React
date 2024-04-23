@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "cb0a",
-      "name": "Teste de projeto",
-      "budget": "10000",
+      "name": "Teste de projeto3333",
+      "budget": "1",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []
